@@ -15,7 +15,7 @@ His main fields of interest are Artificial Intelligence, Machine Learning, Deep 
         <div class="span5">
            Rahul Gupta Kodarapu<br/>
             <div id="hide_email">
-            Email: <code>ma</code><b>I</b><code>il</code><b>don't</b><code>@</code><b>want</b><code>hwul</code><b>spam!</b><code>fm</code><b>Soplease</b><code>ey</code><b>leave</b><code>er</code><b>mealone!</b><code>.de</code><br/>
+            Email: rahulguptakodarapu@gmail.com
             </div>
 			<a href="https://github.com/mortalrahu">GitHub.com/mortalrahu</a>
         </div>
