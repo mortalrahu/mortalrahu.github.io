@@ -1,9 +1,9 @@
 ﻿---
 layout: page
 description: 
----Rahul Gupta Kodarapu
+---
 
- is an MSc, Digital Engineering Student at the Otto-von-Guericke-Universität Magdeburg. Digital Engineering is a course designed to train engineers from various fields of engineering, other than computer science, in the field of computer science and data science. 
+Rahul Gupta Kodarapu is an MSc, Digital Engineering Student at the Otto-von-Guericke-Universität Magdeburg. Digital Engineering is a course designed to train engineers from various fields of engineering, other than computer science, in the field of computer science and data science. 
 His main fields of interest are Artificial Intelligence, Machine Learning, Deep Learning, Electronics & Internet Of Things.
 
 ---
