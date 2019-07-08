@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Feinstaubsensor
-description: Feinststaubsensor
+title: Projects and Research
+description: Projects and Research
 ---
 
 A "Feinstaubsensor" measures the fine particulate matter in the air (in german "Feinstaub"), usually the particles in the categories PM2.5 and PM10. PM2.5 includes every particle that has a smaller diameter than 2.5µm and it is a subset of PM10, which measures every particle with a diameter of 10µm or less.  
