@@ -1,1 +1,3 @@
-This is a repository to host my personal website: rahulguptakodarapu.com
+# Pranav Lodha Website
+plodha.github.io
+Pranav Lodha's Personal Website
