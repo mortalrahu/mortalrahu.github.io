@@ -1,3 +1,3 @@
-# Pranav Lodha Website
-plodha.github.io
-Pranav Lodha's Personal Website
+# Rahul Kodarapu Website
+mortalrahu.github.io
+Rahul Kodarapu's Personal Website
